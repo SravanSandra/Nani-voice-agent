@@ -1,2 +1,1 @@
-# Nani-voice-agent
-Testing 2
+Bugga Free Mode: upload public/index.html and server.js to GitHub. The free local commands require no OpenAI API credits. The optional paid voice mode uses gpt-realtime-2.1-mini. Browser voice recognition may be unavailable on some browsers.
